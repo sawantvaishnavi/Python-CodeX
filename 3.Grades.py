@@ -1,7 +1,7 @@
 #If grade is greater than or equal to 55, then print "You passed."
 #Else, print "You failed."
 
-#pattern 1:
+##pattern 1:
 grade = 40.23
 if grade >= 55: 
     print('You passed') 
