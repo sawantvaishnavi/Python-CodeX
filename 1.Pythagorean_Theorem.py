@@ -1,4 +1,4 @@
-#Create a hypotenuse.py program that asks the user for two numbers, a and b, and then calculates the hypotenuse c.
+# asks the user for two numbers, a and b, and then calculates the hypotenuse c and print the answer.
 
 a = int(input("enter short side "))
 print (a)
