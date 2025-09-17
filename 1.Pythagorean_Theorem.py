@@ -1,4 +1,4 @@
-# asks the user for two numbers, a and b, and then calculates the hypotenuse c and print the answer.
+# asks the user for two numbers, a and b, and then calculates the hypotenuse c and print the answer
 
 a = int(input("enter short side "))
 print (a)
