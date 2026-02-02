@@ -1,3 +1,5 @@
+Que. Reverse a number
+    
 //////////////// Method 1  ////////////////
 num = int (input ("Enter a number: "))
 rev_num = 0
