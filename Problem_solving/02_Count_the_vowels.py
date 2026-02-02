@@ -1,3 +1,5 @@
+Que. Count vowels in a string
+
 /////////////// Method 1 ///////////////
 name = "Radha"
 lc= name.lower()
